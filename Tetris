@@ -216,4 +216,3 @@ while not done:
     clock.tick(fps)
 
 pygame.quit()
-view rawtetris.py hosted with ❤ by GitHub
